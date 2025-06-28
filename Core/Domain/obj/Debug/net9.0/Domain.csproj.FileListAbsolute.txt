@@ -1,0 +1,11 @@
+/Users/ian/RiderProjects/CleanArchitecture/Core/Domain/bin/Debug/net9.0/Domain.deps.json
+/Users/ian/RiderProjects/CleanArchitecture/Core/Domain/bin/Debug/net9.0/Domain.dll
+/Users/ian/RiderProjects/CleanArchitecture/Core/Domain/bin/Debug/net9.0/Domain.pdb
+/Users/ian/RiderProjects/CleanArchitecture/Core/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ian/RiderProjects/CleanArchitecture/Core/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/Users/ian/RiderProjects/CleanArchitecture/Core/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/Users/ian/RiderProjects/CleanArchitecture/Core/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/Users/ian/RiderProjects/CleanArchitecture/Core/Domain/obj/Debug/net9.0/Domain.dll
+/Users/ian/RiderProjects/CleanArchitecture/Core/Domain/obj/Debug/net9.0/refint/Domain.dll
+/Users/ian/RiderProjects/CleanArchitecture/Core/Domain/obj/Debug/net9.0/Domain.pdb
+/Users/ian/RiderProjects/CleanArchitecture/Core/Domain/obj/Debug/net9.0/ref/Domain.dll
