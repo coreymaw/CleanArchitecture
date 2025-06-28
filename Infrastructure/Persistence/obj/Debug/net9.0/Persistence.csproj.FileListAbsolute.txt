@@ -19,3 +19,4 @@
 /Users/ian/RiderProjects/CleanArchitecture/Infrastructure/Persistence/bin/Debug/net9.0/Infrastructure.pdb
 /Users/ian/RiderProjects/CleanArchitecture/Infrastructure/Persistence/bin/Debug/net9.0/Persistence.runtimeconfig.json
 /Users/ian/RiderProjects/CleanArchitecture/Infrastructure/Persistence/obj/Debug/net9.0/Persistence.genruntimeconfig.cache
+/Users/ian/RiderProjects/CleanArchitecture/Infrastructure/Persistence/obj/Debug/net9.0/Persistence.sourcelink.json

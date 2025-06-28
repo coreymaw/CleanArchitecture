@@ -9,3 +9,4 @@
 /Users/ian/RiderProjects/CleanArchitecture/Core/Domain/obj/Debug/net9.0/refint/Domain.dll
 /Users/ian/RiderProjects/CleanArchitecture/Core/Domain/obj/Debug/net9.0/Domain.pdb
 /Users/ian/RiderProjects/CleanArchitecture/Core/Domain/obj/Debug/net9.0/ref/Domain.dll
+/Users/ian/RiderProjects/CleanArchitecture/Core/Domain/obj/Debug/net9.0/Domain.sourcelink.json
